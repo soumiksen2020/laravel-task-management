@@ -15,7 +15,7 @@ This documentation provides a step-by-step guide on how to set up the project.
 
 ### Step 1: Clone the Repository
 ```
-git clone https://github.com/soumiksen2020/task_management
+git clone https://github.com/soumiksen2020/laravel-task-managent
 cd Task-Manager
 ```
 
